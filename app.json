@@ -1,7 +1,7 @@
 {
   "name": "WHATSAPP_AI",
   "description": "I am Piyush Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : 918777033301",
-  "logo": "https://telegra.ph/file/9f6422abe68e10c2ce24f.jpg",
+  "logo": "https://telegra.ph/file/44b4f160c5b8e46753bae.jpg",
   "keywords": ["whatsappbot", "Piyush", "Piyush Md bot", "Piyush", "Piyush", " ,"],
   "success_url": "/Piyush/",
   "app_url": "/qr/",
@@ -31,8 +31,8 @@
     }, 
     "IMAGE": {
       "description": "Image for bot",
-      "required" :false,    
-      "value": "https://telegra.ph/file/9f6422abe68e10c2ce24f.jpg"
+      "required" : "true"   
+      "value": "https://telegra.ph/file/44b4f160c5b8e46753bae.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
